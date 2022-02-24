@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01Generic/01Generic.iml" filepath="$PROJECT_DIR$/01Generic/01Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01JavaGrammer/01JavaBasicGrammer.iml" filepath="$PROJECT_DIR$/01JavaGrammer/01JavaBasicGrammer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Exception/02Exception.iml" filepath="$PROJECT_DIR$/02Exception/02Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaRoutingMap.iml" filepath="$PROJECT_DIR$/.idea/JavaRoutingMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log4jBugTest/Log4jBugTest.iml" filepath="$PROJECT_DIR$/Log4jBugTest/Log4jBugTest.iml" />
+    </modules>
+  </component>
+</project>
