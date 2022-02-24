@@ -1,0 +1,3 @@
+# Project exclude paths
+/Log4jBugTest/target/
+/out/
