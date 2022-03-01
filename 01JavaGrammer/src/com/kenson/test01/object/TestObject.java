@@ -1,6 +1,6 @@
-package com.kensonb.test01.object;
+package com.kenson.test01.object;
 
-import com.kenson.doc.test01.object.Mobile;
+import com.kenson.test01.object.Mobile;
 import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingUse;
 
 /**
