@@ -37,6 +37,7 @@ public class FindConverStrToN {
     public static void main(String[] args) {
         String s = "abcdef";
         System.out.println(convert(s, 3));
-
+        Integer a = 100;
+        System.out.println(a.doubleValue());
     }
 }
